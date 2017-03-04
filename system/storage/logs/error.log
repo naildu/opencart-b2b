@@ -1,0 +1,2 @@
+2016-03-31 3:29:20 - PHP Notice:  Undefined property: Loader::$url in D:\Programs\XAMPP\htdocs\ocart2\catalog\view\theme\default\template\common\header.tpl on line 85
+2016-03-31 3:32:34 - PHP Notice:  Undefined property: Loader::$url in D:\Programs\XAMPP\htdocs\ocart2\catalog\view\theme\default\template\common\header.tpl on line 85
